@@ -1,0 +1,48 @@
+.box {
+  width: 1000px;
+  height: 1000px;
+  border: 2px solid black;
+}
+
+.circle {
+  width: 100px;
+  height: 100px;
+  
+  border-radius: 50%;
+}
+
+.rect {
+  width: 100px;
+  height: 100px;
+}
+
+
+
+
+
+
+.red {
+  background-color: red;
+}
+
+.green {
+
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+
+.sm {
+  width: 50%;
+  height: 50%;
+
+}
+
+.lg {
+  width: 150px;
+  height: 150px;
+
+}

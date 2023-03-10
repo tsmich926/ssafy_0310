@@ -1,0 +1,17 @@
+/* @font-face {
+  font-family: '폰트';
+  src url();
+}
+
+
+h1 {
+  font-family: '폰트';
+} */
+
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(24, 190, 135);
+}
+
